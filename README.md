@@ -32,3 +32,4 @@ All data used in this dashboard is **synthetically generated** to simulate a cli
 - **Patient Demographics**: Age, gender, and unique patient IDs
 - **Wound Characteristics**: Wound type (e.g., diabetic ulcer, pressure injury), wound size (cm²), and severity levels
 - **Treatment Plans**: Weekly treatment status and duration
+![image](https://github.com/user-attachments/assets/49f3ac54-b379-4706-9d45-7ab8dde0d473)
