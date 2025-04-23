@@ -22,8 +22,8 @@ This Shiny dashboard simulates and visualizes clinical trial data related to AI-
    ```bash
    git clone https://github.com/your-username/kronikare-wound-dashboard.git
    cd kronikare-wound-dashboard
-- **install.packages(c("shiny", "shinydashboard", "dplyr", "ggplot2", "plotly", "DT", "lubridate", "tidyr"))
-- **shiny::runApp()
+- install.packages(c("shiny", "shinydashboard", "dplyr", "ggplot2", "plotly", "DT", "lubridate", "tidyr"))
+- shiny::runApp()
 
 ## 🧬 Data Simulation
 
