@@ -24,10 +24,7 @@ This Shiny dashboard simulates and visualizes clinical trial data related to AI-
    cd kronikare-wound-dashboard
 install.packages(c("shiny", "shinydashboard", "dplyr", "ggplot2", "plotly", "DT", "lubridate", "tidyr"))
 shiny::runApp()
-kronikare-wound-dashboard/
-├── app.R               # Main Shiny app file
-├── README.md           # Project documentation
-└── (Optional folders for www/, data/, modules/ if extended)
+
 ## 🧬 Data Simulation
 
 All data used in this dashboard is **synthetically generated** to simulate a clinical trial environment for AI-assisted wound care. The simulated dataset includes:
